@@ -1,0 +1,967 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+
+
+
+
+#clg-items-1 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 900;
+    color: #fa194a;
+}
+
+#clg-items-2 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: #fa194a;
+}
+
+#clg-items-3 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: #fa194a;
+}
+
+#clg-items-4 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: #fa194a;
+}
+
+#clg-items-5 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: #fa194a;
+}
+
+#clg-items-6 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: #fa194a;
+}
+
+#clg-items-7 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: #fa194a;
+}
+
+#clg-items-8 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: #fa194a;
+}
+
+#clg-items-9 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 900;
+    color: blue;
+}
+
+#clg-items-10 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: yellow;
+}
+
+#clg-items-11 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: blue;
+}
+
+#clg-items-12 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: blue;
+}
+
+#clg-items-13 {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 700;
+    color: yellow;
+}
+
+.clg-banner-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+
+
+.rais-clg-bg-container {
+    background-color: darkblue;
+    background-size: cover;
+
+}
+
+.banner-sub-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.banner-heading {
+    font-family: "Roboto";
+    font-size: 35px;
+    font-weight: 500;
+    color: yellow;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.cusrom-button {
+    background-color: transparent;
+    color: white;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: yellow;
+    width: 120px;
+    height: 40px;
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+
+.rais-clg-banner-card {
+    background-color: #0b0c12;
+    margin: 10PX;
+    padding-top: 30PX;
+    border-radius: 10PX;
+    padding-bottom: 40px;
+    height: 100vh;
+
+}
+
+.card-title {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    padding: 20px;
+
+}
+
+
+.container {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.txt-field {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: red;
+    padding-top: 10px;
+    text-align: center;
+    border-width: 0px;
+
+}
+
+.user-names {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: gray;
+    padding-top: 10px;
+    text-align: center;
+    border-width: 0px;
+
+}
+
+.user-names1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: gray;
+    padding-top: 10px;
+    text-align: center;
+    border-width: 0px;
+    width: 232px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+
+.login-button {
+    background-color: yellow;
+    color: black;
+    border-width: 0px;
+    border-style: solid;
+    width: 232px;
+    height: 43px;
+
+    padding-top: 10px;
+
+
+}
+
+.her-wid {
+    background-color: gray;
+    border-width: 5px;
+}
+
+
+.admission-section-container {
+    background-color: white;
+    background-size: cover;
+}
+
+.admission-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+}
+
+.admission-desc {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+}
+
+.admission-card {
+    background-color: #58b9f5;
+
+    border-top-color: #f7349c;
+}
+
+.card-heading {
+
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: 700;
+    color: yellow;
+}
+
+.cours-highlight {
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: 700;
+    color: yellow;
+
+}
+
+.hoz-line {
+    background-color: #f7349c;
+    border-width: 1px;
+}
+
+.card-desc {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+}
+
+.course-highlight {
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 800;
+    color: black;
+    text-decoration: underline;
+}
+
+.adimission-criteria {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+}
+
+.program-eligibility {
+    background-color: #f7f7f0;
+}
+
+.program-elig {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+.program-eligibility1 {
+    background-color: white;
+}
+
+.infrastructure-heading {
+    font-family: "Roboto";
+    font-size: 30PX;
+    font-weight: 800;
+    color: #292828;
+    text-align: center;
+}
+
+.infrastructure-section {
+    background-color: white;
+    background-size: cover;
+}
+
+
+.card-heading1 {
+
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: 700;
+    color: black;
+}
+
+.line {
+    background-color: blue;
+    width: 100px;
+    border-radius: 2px;
+}
+
+.card-desc1 {
+    font-family: "Roboto";
+    font-size: 23px;
+    font-weight: 700;
+    color: black;
+
+}
+
+.program-elig1 {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
+
+
+.about-rais-container {
+    background-color: white;
+    background-size: cover;
+}
+
+.about-rais-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+    color: black;
+}
+
+.about-rais-sub-heading {
+
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #3c52e6;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.rais-about-description {
+    font-weight: 600;
+    font-family: "Roboto";
+    color: black;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.about-rais-desc {
+    font-weight: 400;
+    font-family: "Roboto";
+    color: black;
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.list-section {
+    background-color: #faf7a7;
+    background-size: cover;
+}
+
+.list-section-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 600;
+    color: #140540;
+    padding-left: 20px;
+}
+
+.list-title {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+    color: black;
+}
+
+.list-style {
+    list-style-type: square;
+    color: yellow;
+}
+
+.image-section {
+    background-color: white;
+    background-size: cover;
+}
+
+.image-description {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+    color: black;
+}
+
+.image-desc {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+    color: black;
+}
+
+.study-section-container {
+    background-color: #0dafdb;
+    background-size: cover;
+}
+
+.heading-section {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.title-section {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+
+.style-section {
+    font-family: "Roboto";
+    font-size: 40px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.title {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 300;
+    color: white;
+    text-align: center;
+}
+
+.hoz-line {
+    background-color: white;
+}
+
+
+
+
+.style-search {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: white;
+    text-align: center;
+
+    border-radius: 20px;
+    width: 250px;
+    height: 50px;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: white;
+
+}
+
+.bg-container {
+    background-color: black;
+    background-size: cover;
+    height: 25vh;
+    text-align: center;
+    justify-content: center;
+    border-radius: 20px;
+}
+
+.btn-style {
+    height: 50px;
+    width: 80px;
+    background-color: blue;
+    text-align: center;
+    border-radius: 15px;
+
+
+}
+
+
+.heading-section1 {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 100;
+    color: white;
+    text-align: center;
+}
+
+.reseach-heading {
+    font-family: "roboto";
+    font-weight: 900;
+    font-size: 30px;
+    color: #e8130c;
+
+
+}
+
+.reseach-sub-heading {
+    font-family: "roboto";
+    font-weight: 900;
+    font-size: 30px;
+    color: #040505;
+
+
+}
+
+.search-title {
+    font-family: "roboto";
+    font-weight: 400;
+    font-size: 20px;
+    color: #5a635f;
+    padding: 10px;
+}
+
+.style-title {
+    font-family: "roboto";
+    font-weight: 400;
+    font-size: 22px;
+    color: #010805;
+}
+
+.research-main-heading {
+    font-family: "roboto";
+    font-weight: bold;
+    font-size: 30px;
+    color: #010805;
+}
+
+.research-paragraph {
+    font-family: "roboto";
+    font-weight: 400;
+    font-size: 15px;
+    color: #010805;
+}
+
+.why-rais-section {
+    background-color: white;
+    background-size: cover;
+}
+
+.why-rais-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+}
+
+.why-rais-title {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 100;
+    color: black;
+    text-align: center;
+}
+
+.why-rais-title1 {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+}
+
+.why-rais-title2 {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.custom-button1 {
+    width: 120px;
+    height: 40px;
+    border-width: 0px;
+    color: black;
+    font-size: 15px;
+    background-color: yellow;
+
+}
+
+.rais-main-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+}
+
+.rais-paragraph {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 800;
+    color: black;
+    text-align: center;
+}
+
+.rank-section {
+    background-color: black;
+    background-size: cover;
+}
+
+.rank-image {
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+}
+
+.ranked-heading {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 600;
+    color: white;
+}
+
+.hozir-lines {
+    background-color: yellow;
+    width: 90px;
+}
+
+.approval-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 700;
+    color: #261d02;
+    text-align: center;
+}
+
+.approval-section {
+    background-color: #f5b70f;
+    background-size: cover;
+}
+
+.approval-card {
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+}
+
+.approval-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    padding: 20px;
+}
+
+.approvl-desc {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+    color: #261d02;
+    padding-bottom: 20px;
+}
+
+.detailed-view-bg-container {
+    background-color: #e32417;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 800;
+    color: white;
+    text-align: center;
+}
+
+.specialization-section {
+    background-color: white;
+    background-size: cover;
+}
+
+.specialization-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: 700;
+    color: black;
+    text-align: center;
+}
+
+.automobile-image {
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.automobile-card {
+    background-color: white;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.specialization-heading1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+    padding: 20px;
+}
+
+.hilight {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+    color: #97999c;
+}
+
+.automobile-desc {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 400;
+    color: #6b6e73;
+
+}
+
+.link-style {
+    width: 30px;
+    height: 25px;
+    padding-left: 10px;
+}
+
+.hilight1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 600;
+    color: #0f0f0f;
+}
+
+.custom-butto {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 300;
+    color: white;
+    width: 120px;
+    height: 40px;
+    border-width: 0px;
+    border-radius: 5px;
+    background-color: orange;
+    margin: 10px;
+}
+
+.detailed-view-bg-container1 {
+    background-color: white;
+    background-size: cover;
+}
+
+.detailed-view-heading1 {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+.work-desc {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 15px;
+    color: #8c8685;
+    text-align: center;
+}
+
+.detailed-view-card-container1 {
+    background-color: white;
+    margin: 40px;
+}
+
+.logos {
+    width: 200px;
+    height: 100px;
+}
+
+.text-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+.test-desc {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 100;
+    color: #474643;
+    padding: 20px;
+}
+
+.member-heading {
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 700;
+    color: black;
+    padding: 20px;
+}
+
+.test-heading4 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+}
+
+
+.test-card-section {
+    background-image: radial-gradient(#0d73d9, #d90d80);
+}
+
+.test-subheading1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    color: #b7bdb9;
+}
+
+.test-heading1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: 700;
+    color: #b7bdb9;
+}
+
+.press-release-section {
+    background-color: #5ff585;
+    background-size: cover;
+}
+
+.press-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+.press-card-section {
+    background-color: #5ff585;
+    margin: 10px;
+}
+
+.press-image {
+    width: 200px;
+    height: 150px;
+}
+
+.press-sub-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+
+}
+
+.press-desc {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 12px;
+    color: black;
+}
+
+.footer-section {
+    background-color: black;
+    background-size: cover;
+}
+
+.footer-section-image {
+    width: 160px;
+    height: 160px;
+    border-radius: 80px;
+
+}
+
+.link-icons1 {
+    color: #959ead;
+    font-size: 25px;
+}
+
+
+
+.link-icons {
+    color: #959ead;
+    font-size: 17px;
+}
+
+.footer-icons-container {
+    background-color: #202b36;
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    padding-right: 16px;
+    padding-left: 20px;
+    margin: 15px;
+
+
+}
+
+.footer-section-heading {
+    color: #959ead;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.footer-section-heading1 {
+    color: #959ead;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.vr-footer-section-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.vr-footer-section-text {
+    color: #959ead;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.vr-footer-section-text {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+}
+
+.hr-line {
+    background-color: #5a7184;
+    border-width: 3px;
+}
